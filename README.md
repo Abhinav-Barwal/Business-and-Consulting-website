@@ -2,7 +2,7 @@ Counsel Own Your Counsel
 
 Project Overview
 
-Counsel Own Your Counsel is a business website designed to offer professional counseling services. Built entirely with HTML and CSS, this website showcases a clean, responsive, and user-friendly interface, tailored for counseling businesses to highlight their services, team, and contact information effectively.
+Counsel Own Your Counsel is a business website designed to offer professional counseling services. Built entirely with HTML and CSS and few code of JavaScript also, this website showcases a clean, responsive, and user-friendly interface, tailored for counseling businesses to highlight their services, team, and contact information effectively.
 
 Features :- 
 
